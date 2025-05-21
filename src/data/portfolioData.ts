@@ -43,7 +43,8 @@ const portfolioData: PortfolioData = {
   name: "Nidhi Tulsyan",
   title: "Full Stack Developer",
   about: "I'm a passionate full stack developer with expertise in creating responsive and user-friendly web applications. With a strong foundation in both frontend and backend technologies, I strive to build scalable solutions that solve real-world problems.",
-  profileImage: "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  // profileImage: "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  profileImage: "https://drive.google.com/file/d/12x1rOJb_0BS8X0YsCmLjE_cZM9_ejU8Y/view?usp=sharing",
   resume: "/resume.pdf",
   links: {
     linkedin: "https://linkedin.com/in/johndoe",
