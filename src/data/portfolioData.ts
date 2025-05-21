@@ -51,7 +51,7 @@ const portfolioData: PortfolioData = {
     linkedin: "https://www.linkedin.com/in/nidhi-tulsyan19/",
     github: "https://github.com/NidhiTulsyan",
     leetcode: "https://leetcode.com/u/NidhiTulsyan/",
-    email: "tulsyannidhi19@example.com",
+    email: "tulsyannidhi19@gmail.com",
     phone: "8487036323"
   },
   projects: [
@@ -70,7 +70,7 @@ const portfolioData: PortfolioData = {
     title: "Voice-Based Question Answering System",
     description: "An AI-powered system that answers questions using voice input, applying K-Means Clustering and Cosine Similarity for NLP-based responses. Features include real-time speech recognition, NLP processing, and a GUI built with Tkinter.",
     technologies: ["Python", "Machine Learning", "K-Means Clustering", "Cosine Similarity", "Tkinter", "RapidBuzz", "TF-IDF"],
-    githubLink: "https://github.com/yourusername/voice-qa-system",
+    githubLink: "https://github.com/NidhiTulsyan/voice-based-question-answering",
     demoLink: "",
     images: ["https://images.pexels.com/photos/8438912/pexels-photo-8438912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"]
   },
@@ -78,8 +78,8 @@ const portfolioData: PortfolioData = {
     id: "project3",
     title: "Movie Ordering Website",
     description: "A user-friendly storefront for browsing and ordering movies with an admin dashboard for managing listings and orders. Backend powered by MongoDB and Express.js for efficient data handling.",
-    technologies: ["React.js", "MongoDB", "Node.js", "Express.js"],
-    githubLink: "https://github.com/yourusername/movie-ordering-website",
+    technologies: ["React.js", "MongoDB", "Node.js", "Express.js","REST-API"],
+    githubLink: "https://github.com/NidhiTulsyan/movieBook",
     demoLink: "",
     images: ["https://images.pexels.com/photos/7991310/pexels-photo-7991310.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"]
   },
@@ -88,7 +88,7 @@ const portfolioData: PortfolioData = {
     title: "Airbnb Landing Page Clone",
     description: "A responsive clone of the Airbnb landing page built with React.js and styled using Material-UI, closely mimicking the design and functionality of the original.",
     technologies: ["React.js", "Material-UI"],
-    githubLink: "https://github.com/yourusername/airbnb-landing-clone",
+    githubLink: "https://github.com/NidhiTulsyan/mui-airbnb-design",
     demoLink: "",
     images: ["https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"]
   }
