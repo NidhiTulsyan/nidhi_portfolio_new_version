@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import { ArrowDown } from 'lucide-react';
+// import "../../public/pic1.jpg"
 
 interface HeroProps {
   name: string;
@@ -31,7 +32,7 @@ const Hero: React.FC<HeroProps> = ({ name, title, profileImage }) => {
             <div className="relative">
               <div className="rounded-full w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 overflow-hidden border-4 border-white shadow-xl mx-auto">
                 <img 
-                  src={profileImage} 
+                  src="../../public/pic1.jpg" 
                   alt={name} 
                   className="w-full h-full object-cover"
                 />
