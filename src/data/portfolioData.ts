@@ -44,12 +44,13 @@ const portfolioData: PortfolioData = {
   title: "Full Stack Developer",
   about: "I'm a passionate full stack developer with expertise in creating responsive and user-friendly web applications. With a strong foundation in both frontend and backend technologies, I strive to build scalable solutions that solve real-world problems.",
   // profileImage: "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  profileImage: "https://drive.google.com/file/d/12x1rOJb_0BS8X0YsCmLjE_cZM9_ejU8Y/view?usp=sharing",
+  // profileImage: "https://drive.google.com/file/d/12x1rOJb_0BS8X0YsCmLjE_cZM9_ejU8Y/view?usp=sharing",
+  profileImage: "/pic2.png",
   resume: "/resume.pdf",
   links: {
-    linkedin: "https://linkedin.com/in/johndoe",
-    github: "https://github.com/johndoe",
-    leetcode: "https://leetcode.com/johndoe",
+    linkedin: "https://www.linkedin.com/in/nidhi-tulsyan19/",
+    github: "https://github.com/NidhiTulsyan",
+    leetcode: "https://leetcode.com/u/NidhiTulsyan/",
     email: "tulsyannidhi19@example.com",
     phone: "8487036323"
   },
@@ -115,24 +116,24 @@ const portfolioData: PortfolioData = {
   certifications: [
     {
       id: "cert1",
-      title: "AWS Certified Developer - Associate",
+      title: "The Complete 2023 Web Development Bootcamp",
       issuer: "Udemy",
       date: "2023",
-      link: "https://www.credly.com/badges/example"
+      link: "https://udemy-certificate.s3.amazonaws.com/pdf/UC-7a14d523-9ed7-4356-92d0-bec6d2ba8ce1.pdf"
     },
     {
       id: "cert2",
-      title: "Meta Frontend Developer Certificate",
-      issuer: "Meta (Facebook)",
-      date: "2022",
-      link: "https://www.coursera.org/account/accomplishments/example"
+      title: "Introduction to Cloud Computing",
+      issuer: "Simplilearn",
+      date: "2024",
+      link: "https://certificates.simplicdn.net/share/7040996_1722188817.pdf"
     },
     {
       id: "cert3",
-      title: "Google Cloud Professional Developer",
-      issuer: "Google",
-      date: "2021",
-      link: "https://www.credential.net/example"
+      title: "Python Course for Beginners With Certification: Mastering the Essentials",
+      issuer: "Scaler",
+      date: "2025",
+      link: "https://moonshot.scaler.com/s/sl/Ek5-HsPpXd?_gl=1*1ogueky*FPAU*NjE5NjUzOTI5LjE3NDMxNDY0ODM.*_ga*NTIxMDQ1My4xNzQzMTQ2NDgz*_ga_53S71ZZG1X*MTc0MzE3NDc0NS4yLjEuMTc0MzE3NzY2OS4wLjAuMTAxMzg5MzAyNw.."
     }
   ]
 };

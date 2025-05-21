@@ -35,7 +35,8 @@ export default {
       animation: {
         fadeIn: 'fadeIn 0.5s ease-in-out',
         fadeUp: 'fadeUp 0.8s ease-out',
-        bounce: 'bounce 2s infinite'
+        bounce: 'bounce 2s infinite',
+        blink: 'blink 1s step-end infinite', // 🔥 Added blink animation
       },
       keyframes: {
         fadeIn: {
@@ -49,6 +50,10 @@ export default {
         bounce: {
           '0%, 100%': { transform: 'translateY(0)' },
           '50%': { transform: 'translateY(-10px)' }
+        },
+        blink: {
+          '0%, 100%': { opacity: '1' },
+          '50%': { opacity: '0' }
         }
       }
     },
